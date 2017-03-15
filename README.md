@@ -3,10 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
 To run progect in development mode:
->npm install -g @angular/cli
->npm install
->ng serve
-
+```
+$ npm install -g @angular/cli
+$ npm install
+$ ng serve
+```
 Open in browser http://localhost:4200/
 
 ## Development server
