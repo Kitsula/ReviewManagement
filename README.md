@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
-To run progect in development mode:
+To run the project in development mode:
 ```
 $ npm install -g @angular/cli
 $ npm install
