@@ -7,8 +7,8 @@ describe('review-management App', () => {
     page = new ReviewManagementPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display message saying Review Management', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app works!');
+    expect(page.getParagraphText()).toEqual('Review Management');
   });
 });
